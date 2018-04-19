@@ -8,6 +8,6 @@ LUIS est ce que l’on appelle un NLP : Natural Language Processing.
 
 
 Vous trouverez le contenu de l'atelier : 
-- En format DOCX : [Atelier Description](/docs/atelier.docx)
-- en format PDF : 
+- En format DOCX : [Atelier Description docx](Docs/Atelier.docx)
+- en format PDF : [Atelier Description pdf](Docs/Atelier.pdf)
  
